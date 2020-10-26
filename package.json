@@ -10,6 +10,7 @@
   "dependencies": {
     "@paeljo/wegplus-tailwind-preset": "0.1.0",
     "@sanity/client": "2.0.1",
+    "fathom-client": "3.0.0",
     "next": "latest",
     "next-on-netlify": "2.5.2",
     "react": "^16.13.1",
