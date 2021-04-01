@@ -1,0 +1,105 @@
+releases:
+  - name: Februar 2020
+    changes:
+      - type: new
+        title: Themen-Sammlungen
+        text: |
+          Themen können nun in Sammlungen zusammengefasst werden, z.B. alle für die nächste Eigentümerversammlung relevanten Themen.
+      - type: new
+        title: Ansprechpartner
+        text: |
+          Alle wichtigen Ansprechpartner (Hausmeister, Heizung, Sanitär, etc.) können nun erfasst werden und stehen allen Nutzern zur Verfügung. Die wichtigsten Ansprechpartner können direkt auf der Startseite eingeblendet werden.
+      - type: improved
+        title: Texterkennung für PDFs
+        text: |
+          Aus eingescannten PDF-Dateien wird nun mittels Texterkennung der Text extrahiert und durchsuchbar gemacht
+      - type: improved
+        title: Verbesserte Suchfunktion
+        text: |
+          Die Suchfunktion wurde verbessert und zeigt nun bereits Suchergebnisse, wenn der Suchbegriff erst teilweise eingegeben ist. Außerdem funktioniert sie nun auch auf mobilen Geräten.
+      - type: improved
+        title: Meta-Informationen zu Themen
+        text: |
+          Veränderungen beim Status, der Zuständigkeit oder der Sichtbarkeit von Themen werden jetzt zwischen den Diskussionsbeiträgen an der chronologisch richtigen Stelle eingeblendet.
+  - name: Januar 2020
+    changes:
+      - type: new
+        title: Export der Beschlusssammlung
+        text: |
+          Die Beschlusssammlung kann nun als PDF-Datei exportiert werden. Dies ermöglicht der Verwaltung nun die gesamte Pflege der Beschlüsssammlung direkt in WEG+.
+      - type: new
+        title: Stimmprinzip
+        text: |
+          In den Einstellungen kann nun das Stimmprinzip der WEG (Wert, Kopf, Objekt) ausgewählt werden.
+      - type: new
+        title: Hinweis bei gelöschten Kommentaren
+        text: |
+          Gelöschte Kommentare verschwinden nicht mehr spurlos sondern werden durch einen entsprechenden Hinweis ersetzt.
+      - type: new
+        title: Themen Wohneinheiten zuordnen
+        text: |
+          Themen können nun betroffene Wohneinheiten zugeordnet werden. Dies ermöglicht die Einschränkung der Themenliste auf alle Themen zu einer Wohneinheit.
+      - type: new
+        title: Hilfe & Support
+        text: |
+          Links unten finden Sie einen   - type: newen Link "Hilfe & Support". Dort können Sie mit uns in Kontakt treten, Probleme melden oder Änderungsvorschläge machen. Perspektivisch werden Sie hier auch Bedienungshinweise und Anleitungen finden.
+      - type: improved
+        title: Benachrichtigungen
+        text: |
+          Das Benachrichtigungssystem wurde komplett überarbeitet. Nutzer_innen erhalten nun unmittelbar eine Benachrichtigung per E-Mail, wenn ein    - type: newes Thema erstellt, eine Kommentar zu einem abonnierten Thema abgegeben wird oder sie/er explizit erwähnt wird.
+  - name: November 2019
+    changes:
+      - type: new
+        title: PDFs durchsuchbar
+        text: |
+          Aus hochgeladenen Dokumenten wird automatisch der Text extrahiert und mittels der bekannten Suchfunktion durchsuchbar gemacht.
+      - type: improved
+        title: Dokumentkategorie in Übersichtsliste
+        text: |
+          In der Dokumenteübersicht wird nun auch die Kategorie angezeigt.
+      - type: improved
+        title: Warnung vor Datenverlust
+        text: |
+          Es wird ein Warnhinweis über bevorstehenden Datenverlust angezeigt, wenn vergessen wird, den "Speichern"-Button anzuklicken.
+  - name: September 2019
+    changes:
+      - type: new
+        title: Bulk Actions
+        text: |
+          Wohneinheiten können jetzt im Block angelegt und auch gelöscht werden, d.h. Sie geben die Anzahl der Wohneinheiten, das Gebäude sowie das Nummerierungsschema an, und die Wohneinheiten werden mit einem Klick angelegt.
+  - name: August 2019
+    changes:
+      - type: new
+        title: Suchfunktion
+        text: |
+          Es gibt nun eine Suchfunktion, die Ergebnisse aus allen Bereichen (Themen, Dokumente, Beschlüsse, Wohneinheiten) in strukturierter Form angezeigt.
+      - type: new
+        title: Angepinnte Themen
+        text: |
+          Themen können nun angepinnt werden, das heißt sie erscheinen immer an oberster Stelle in der Themenliste. Dies bietet sich an, um z.B. allgemeine Hinweise zur Benutzung des Systems oder öfters wiederkehrende Themen direkt sichtbar und schnell zugänglich zu halten.
+      - type: new
+        title: Priorität
+        text: |
+          Themen können jetzt eine Priorität haben\: normal, hoch oder niedrig. Themen mit hoher Priorität werden in der Liste oben, solche mit niedriger weiter unten angezeigt.
+  - name: Juli 2019
+    changes:
+      - type: new
+        title: Benutzer einladen
+        text: |
+          Neue Benutzer können einer WEG hinzugefügt und automatisch eingeladen werden. Es wird dann eine Email mit einem Link verschickt, und wenn dieser angeklickt wird, kann der Benutzer sein Passwort festlegen und ggf. ein Profilbild hochladen.
+      - type: new
+        title: Ankündigungen
+        text: |
+          Verwalter können nun Ankündigungen (z.B. anstehende Termine, Bauarbeiten, etc.) erstellen, die allen Benutzern prominent auf der Startseite eingeblendet werden sowie in den Email-Zusammenfassungen erscheinen.
+      - type: new
+        title: Profilseite
+        text: |
+          Jeder Benutzer hat nun seine eigene Profilseite mit Name, Funktion, Wohneinheiten und Aktivitäten
+      - type: new
+        title: Profilbild
+        text: |
+          Benutzer können nun ein Profilbild hochladen, das dann anstelle der Initialen angezeigt wird.
+      - type: improved
+        title: Zugriffsrechte für Themen
+        text: |
+          Bei jedem Thema kann nun angegeben werden, welchem Benutzerkreis dieses zugänglich gemacht werden soll. Als Optionen stehen zur Verfügung: "Ich selber", "Eigentümer", "Beirat", "Verwaltung", sowie ggf. alle weiteren WEG-spezifischen Gruppen.
